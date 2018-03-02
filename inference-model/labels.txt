@@ -1,0 +1,4 @@
+all-items
+foot-wear
+kitchen-items
+toys
